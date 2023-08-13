@@ -1,5 +1,7 @@
 # Joint Savings Account
 
+![](images/20-5-challenge-image.png)
+
 We created a new smart contract named `JointSavings` with two accounts:
 
 * Account1 address: 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2
